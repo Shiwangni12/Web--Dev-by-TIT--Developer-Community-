@@ -1,0 +1,12 @@
+Today, i learn about css, what is the need of css what makes css special. various css properties like font size,
+font family and varous properties.
+learned about selectors,types od selectors.learne about how to put or embedded css code into html code,
+ways to embedded css code into html code
+,three ways of embedding local embedding, inline embedding,external stylesheet.After that do changes in
+ previous html code give styling to that webpage give that page an background color, change its font sizes and
+ font families , add that page padding margin.
+ padding i give of 0px.
+ padding is used for defining the space between the element and the border of the element.
+ after that i add margin to my webpage. margin i add to my webpage is 20px.
+ margin is defined as the space outside an element, separating it from other elements. 
+ i changed the colour of text from webpage to make it more attractive.
