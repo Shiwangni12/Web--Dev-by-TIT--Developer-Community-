@@ -1,0 +1,26 @@
+1. Box Model in CSS?
+The CSS Box Model describes the rectangular boxes generated for elements in the page layout. Every element is represented as a box, consisting of four key parts:
+Content
+Padding
+Border
+Margin
+
+2. CSS Positioning and Layout Basics?
+CSS positioning allows you to control the placement of elements on a webpage. The basic types of positioning are:
+
+Static
+Relative
+Absolute
+Fixed
+Sticky
+
+3. Using Flexbox for Layout?
+Flexbox in CSS designed to create flexible and responsive layouts.
+
+Flex Container
+Flex Items
+Main Axis
+Cross Axis
+Justify Content
+Align Items
+Align Self
