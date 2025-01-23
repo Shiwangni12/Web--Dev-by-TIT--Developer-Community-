@@ -1,4 +1,3 @@
-/* Reset some default styles */
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: linear-gradient(to right, #82230b, #feb47b); /* Gradient background */
+    background: linear-gradient(to right, #82230b, #feb47b);
 }
 
 header {
